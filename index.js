@@ -22,3 +22,7 @@ function appendKitten(name){
   const arr2=kittens.concat(name)
   return arr2
 }
+
+function prependkItten(name){
+  const arr2=kittens.
+}
