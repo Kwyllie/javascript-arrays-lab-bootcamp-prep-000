@@ -23,7 +23,7 @@ function appendKitten(name){
   return arr2
 }
 
-function prependkItten(name){
+function prependKitten(name){
   const arr2=[name,...kittens]
   return arr2
 }
