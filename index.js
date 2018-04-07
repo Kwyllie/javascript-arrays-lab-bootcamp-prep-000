@@ -24,5 +24,5 @@ function appendKitten(name){
 }
 
 function prependkItten(name){
-  const arr2=kittens.
+  const arr2=k
 }
